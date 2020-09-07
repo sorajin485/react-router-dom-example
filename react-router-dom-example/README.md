@@ -1,3 +1,10 @@
+##SJPark
+react-router-dom 기본 예제
+Switch : e.preventDefault()
+NavLink : css -> .active 참조 
+useParams : url :id 값 알수있음
+exact : 명확
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
