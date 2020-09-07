@@ -1,9 +1,10 @@
-##SJPark
-react-router-dom 기본 예제
-Switch : e.preventDefault()
-NavLink : css -> .active 참조 
-useParams : url :id 값 알수있음
-exact : 명확
+##SJPark <br />
+생활코딩 : https://www.youtube.com/watch?v=WLdbsl9UwDc&ab_channel=%EC%83%9D%ED%99%9C%EC%BD%94%EB%94%A9
+react-router-dom 기본 예제 <br />
+Switch : e.preventDefault() <br />
+NavLink : css -> .active 참조  <br />
+useParams : url :id 값 알수있음 <br />
+exact : 명확 <br />
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
